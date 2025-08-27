@@ -309,40 +309,6 @@ We welcome contributions! Here's how you can help improve this project:
 4. 📤 Push to branch (`git push origin feature/AmazingFeature`)
 5. 🔄 Open Pull Request
 
----
-
-## 📄 **License**
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 **Contact & Support**
-
-### **🎯 Project Team**
-- **Lead Engineer**: [@sundaah](https://github.com/sundaah)
-- **Hardware Specialist**: PWM Control Expert
-- **Safety Engineer**: Critical Systems Designer
-- **Test Lead**: Validation & Verification Specialist
-
-### **💬 Get Help**
-- 📧 **Email**: [project@pwm-microwave.com](mailto:project@pwm-microwave.com)
-- 💬 **Discord**: [Join our community](https://discord.gg/pwm-microwave)
-- 🐛 **Issues**: [Report bugs here](https://github.com/sundaah/PWM_Verilog/issues)
-- 📖 **Wiki**: [Documentation](https://github.com/sundaah/PWM_Verilog/wiki)
-
----
-
-## 🙏 **Acknowledgments**
-
-Special thanks to:
-- 🏫 **University Research Team** - Initial concept and guidance
-- 🔬 **Safety Standards Committee** - Critical safety requirements
-- 👥 **Beta Test Community** - Invaluable feedback and testing
-- 🌟 **Open Source Community** - Tools and libraries used
-
----
-
 <div align="center">
 
 ### **🌟 Star this repository if you found it helpful! 🌟**
@@ -354,7 +320,5 @@ Special thanks to:
 ---
 
 **🔥 Smart PWM Microwave Controller - Where Precision Meets Innovation! 🔥**
-
-*Built with ❤️ and ⚡ by the PWM Team*
 
 </div>
